@@ -1,0 +1,80 @@
+{
+  "current": {
+    "colors_accent_1": "#6a3005",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "Coffee Time ☕",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {}
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Coffee_Market.png",
+          "logo_width": 200,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "283763d7-fdc4-4bbd-8a3f-ef644f2361c8": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Navigation",
+              "menu": "main-menu"
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Info",
+              "menu": "footer"
+            }
+          },
+          "9dcb9776-d563-4ad8-8b2e-3fbeafc41d36": {
+            "type": "text",
+            "settings": {
+              "heading": "Coffee Market",
+              "subtext": "<p><strong>2899 Medical Center Drive<br\/>33607 FL<br\/><br\/>📞 941-372-6328<br\/><br\/>📩 hello@coffeemarket.com<\/strong><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "283763d7-fdc4-4bbd-8a3f-ef644f2361c8",
+          "footer-0",
+          "9dcb9776-d563-4ad8-8b2e-3fbeafc41d36"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "For Coffee Lovers 🖤",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      }
+    },
+    "content_for_index": []
+  }
+}
