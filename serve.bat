@@ -1,4 +1,2 @@
 @echo off
-call login.bat
-call shopify whoami
-call shopify theme serve
+shopify theme dev --store best-coffee-market.myshopify.com

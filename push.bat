@@ -1,3 +1,2 @@
 @echo off
-call login.bat
-call shopify theme push
+shopify theme push --store best-coffee-market.myshopify.com
