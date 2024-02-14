@@ -48,6 +48,12 @@
         "show_text_below": false
       }
     },
+    "featured_products_carousel_hWCdeJ": {
+      "type": "featured-products-carousel",
+      "settings": {
+        "heading": "Hello world!"
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -233,6 +239,7 @@
   },
   "order": [
     "image_banner",
+    "featured_products_carousel_hWCdeJ",
     "featured_collection",
     "16532839493d56b796",
     "165335937454f021d9",

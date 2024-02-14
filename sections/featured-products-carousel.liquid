@@ -1,0 +1,36 @@
+<h2 style='color: red;'>TEST!!!</h2>
+
+{%  schema %}
+{
+  "name": "Products carousel",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Hello world!"
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Product",
+      "type": "product",
+      "settings": [
+        {
+          "type": "product",
+          "id": "product",
+          "label": "Product"
+        }
+      ]
+    }
+  ],
+  "presets":[
+    {
+      "name": "Products carousel"
+    }
+  ]
+
+}
+{% endschema %}
