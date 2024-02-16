@@ -1,0 +1,24 @@
+{
+  "name": "best-coffee-market.myshopify.com",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "pull": "shopify theme pull --store best-coffee-market",
+    "serve": "shopify theme dev --store best-coffee-market",
+    "push": "shopify theme push --store best-coffee-market"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "^1.4.3",
+    "prettier": "^3.2.5"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "semi": false,
+    "useTabs": false,
+    "tabWidth": 2,
+    "printWidth": 80
+  }
+}

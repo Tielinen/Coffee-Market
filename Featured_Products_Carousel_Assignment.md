@@ -1,4 +1,3 @@
-
 # Featured Products Carousel Project
 
 ## Project Overview
@@ -60,4 +59,3 @@ Create a "Featured Products Carousel" section for Shopify's Dawn theme, showcasi
 - Documentation on installation, customization, and use.
 
 **Ensure the use of inline semantic elements (`<strong>`, `<em>`, `<a>`, `<time>`) to enhance accessibility and SEO.**
-

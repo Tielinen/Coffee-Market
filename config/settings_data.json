@@ -83,14 +83,14 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "https:\/\/twitter.com\/shopify",
-    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_twitter_link": "https://twitter.com/shopify",
+    "social_facebook_link": "https://facebook.com/shopify",
     "social_pinterest_link": "",
-    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_instagram_link": "http://instagram.com/shopify",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "social_youtube_link": "https://www.youtube.com/shopify",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
@@ -109,17 +109,14 @@
             }
           }
         },
-        "block_order": [
-          "announcement-bar-0"
-        ],
-        "settings": {
-        }
+        "block_order": ["announcement-bar-0"],
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Coffee_Market.png",
+          "logo": "shopify://shop_images/Coffee_Market.png",
           "logo_width": 200,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -150,7 +147,7 @@
             "type": "text",
             "settings": {
               "heading": "Coffee Market",
-              "subtext": "<p>📍<strong>North St, 1342 Maine<\/strong><\/p><p>📞<strong>(413) 665-2077<\/strong><\/p><p><strong><br\/><\/strong>📧 <strong>hello@coffeemarket.com<\/strong><\/p>"
+              "subtext": "<p>📍<strong>North St, 1342 Maine</strong></p><p>📞<strong>(413) 665-2077</strong></p><p><strong><br/></strong>📧 <strong>hello@coffeemarket.com</strong></p>"
             }
           }
         },
@@ -186,9 +183,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Default": {
@@ -304,11 +299,8 @@
               }
             }
           },
-          "block_order": [
-            "announcement-bar-0"
-          ],
-          "settings": {
-          }
+          "block_order": ["announcement-bar-0"],
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -346,15 +338,11 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
-          "block_order": [
-            "footer-0",
-            "footer-1",
-            "footer-2"
-          ],
+          "block_order": ["footer-0", "footer-1", "footer-2"],
           "settings": {
             "color_scheme": "background-1",
             "newsletter_enable": true,

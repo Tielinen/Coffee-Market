@@ -20,17 +20,14 @@
         "16535383888aa0d3c7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         }
       },
-      "block_order": [
-        "16535383888aa0d3c7-0",
-        "16535383888aa0d3c7-1"
-      ],
+      "block_order": ["16535383888aa0d3c7-0", "16535383888aa0d3c7-1"],
       "settings": {
-        "image": "shopify:\/\/shop_images\/about_1.jpg",
+        "image": "shopify://shop_images/about_1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -56,17 +53,14 @@
         "1653538411831b492e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         }
       },
-      "block_order": [
-        "1653538411831b492e-0",
-        "1653538411831b492e-1"
-      ],
+      "block_order": ["1653538411831b492e-0", "1653538411831b492e-1"],
       "settings": {
-        "image": "shopify:\/\/shop_images\/about_2.jpg",
+        "image": "shopify://shop_images/about_2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -92,17 +86,14 @@
         "16535385230699240f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         }
       },
-      "block_order": [
-        "16535385230699240f-0",
-        "16535385230699240f-1"
-      ],
+      "block_order": ["16535385230699240f-0", "16535385230699240f-1"],
       "settings": {
-        "image": "shopify:\/\/shop_images\/about_3.jpg",
+        "image": "shopify://shop_images/about_3.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -128,7 +119,7 @@
         "1653538558cf7e3f40-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         },
@@ -146,7 +137,7 @@
         "1653538558cf7e3f40-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/about_4.jpg",
+        "image": "shopify://shop_images/about_4.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",

@@ -1,2 +1,2 @@
 @echo off
-shopify theme pull --store best-coffee-market.myshopify.com
+shopify theme pull --store best-coffee-market
